@@ -1,0 +1,20 @@
+{
+  "name": "kavimo-api-v2-node",
+  "version": "2.0.0",
+  "description": "Kavimo API V2 Nodejs SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/kavimo/api-v2-node"
+  },
+  "keywords": [
+    "kavimo",
+    "api",
+    "v2"
+  ],
+  "author": "Kavimo Team <info@kavimo.com>",
+  "license": "ISC"
+}
